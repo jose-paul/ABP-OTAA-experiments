@@ -14,6 +14,9 @@ It should be taken into account during the tests that some errors can happen, if
 
 
 
+
+---- PORTUGUES ----
+
 Códigos Utilizados para realização dos testes práticos com os End Devices RadioEnge RD49C
 Códigos OTAA e ABP
 
